@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "dd1387bc-7e47-4cb3-993f-cf8988c9903d",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdckFOF.webp",
+	 "title": "sdtf gfx",
+	 "text": "Introduce diverse and dynamic maps set in various environments such as urban cities, jungles, or desert landscapes.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdck3R1.webp",
+	 "title": "sdtf gfx",
+	 "text": "Experiment with different weather conditions (rain, snow, fog) that can affect visibility and strategy.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdck2HP.webp",
+	 "title": "sdtf gfx",
+	 "text": "Create new game modes to add variety, such as Capture the Flag, King of the Hill, or Tactical Escort.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdckHlV.webp",
+	 "title": "sdtf gfx",
+	 "text": "Implement a PvE (Player versus Environment) mode where players collaborate to complete missions against AI-controlled enemies.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdck9KQ.webp",
+	 "title": "sdtf gfx",
+	 "text": "Expand the customization options for player characters, allowing players to personalize their appearance, gear, and weapons.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdckJUB.webp",
+	 "title": "sdtf gfx",
+	 "text": "ntroduce a progression system where players can unlock and earn unique skins, emotes, or other cosmetic items.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
